@@ -1,0 +1,6 @@
+[submodule "code/text/tinyxml/tinyxml2"]
+	path = code/text/tinyxml/tinyxml2
+	url = https://github.com/ztchu/tinyxml2.git
+[submodule "code/text/json"]
+	path = code/text/json
+	url = https://github.com/ztchu/json.git

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DBUser>
+    <User Name="qingya" Password="123456">
+        <Gender>1</Gender>
+        <Mobile>12345678956</Mobile>
+        <Email>qingya@qq.com</Email>
+    </User>
+</DBUser>
